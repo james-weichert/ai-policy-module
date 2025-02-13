@@ -2,11 +2,11 @@
 _Updated Feb. 2024_
 
 ## About
-This first version of the _AI Policy Module_ was created and piloted in December 2024 for a graduate introductory machine learning class, and includes one lecture each on _AI ethics_ and _AI policy_. Our paper about this pilot was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
+This first version of the _AI Policy Module_ was created and piloted in December 2024 for a graduate introductory machine learning class, and includes one lecture each on _AI ethics_ and _AI policy_. [Our paper](https://arxiv.org/abs/2502.07931) about this pilot was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
 
 **Attibution:** Please cite _James Weichert, AI Policy Module (2024)_ when using or adapting this module
 
-**Paper Citation:** J. Weichert and H. Eldardiry, "Educating a Responsible AI Workforce: Piloting a Curricular Module on AI Policy in a Graduate Machine Learning Course," in _Proceedings of the 2025 ASEE Annual Conference & Exposition_, Montreal, Canada, 2025.
+**Paper Citation:** J. Weichert and H. Eldardiry, ["Educating a Responsible AI Workforce: Piloting a Curricular Module on AI Policy in a Graduate Machine Learning Course,"](https://arxiv.org/abs/2502.07931) in _Proceedings of the 2025 ASEE Annual Conference & Exposition_, Montreal, Canada, 2025.
 
 ## Lecture 1: [Ethics and Artificial Intelligence](https://github.com/james-weichert/ai-policy-module/blob/main/v1/lecture1.pdf)
 
