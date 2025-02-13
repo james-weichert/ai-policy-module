@@ -20,4 +20,4 @@ The [module](https://github.com/james-weichert/ai-policy-module/blob/main/v1/ABO
 ## Updates
 
 * We are busy developing an _AI Policy Module_ 2.0 to pilot in a graduate computing ethics course this spring. Version 2 of the module will include more case studies, in-class activities, and an out-of-class group assignment on AI regulation.
-* Our paper on the first iteration of the _AI Policy Module_ was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
+* [Our paper](https://arxiv.org/abs/2502.07931) on the first iteration of the _AI Policy Module_ was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
