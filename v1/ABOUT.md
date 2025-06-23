@@ -1,5 +1,5 @@
 # AI Policy Module v1 (Dec. 2024)
-_Updated Feb. 2024_
+_Updated Feb. 2025_
 
 ## About
 This first version of the _AI Policy Module_ was created and piloted in December 2024 for a graduate introductory machine learning class, and includes one lecture each on _AI ethics_ and _AI policy_. [Our paper](https://arxiv.org/abs/2502.07931) about this pilot was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
