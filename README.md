@@ -11,7 +11,7 @@ The [original version](https://github.com/james-weichert/ai-policy-module/blob/m
 1. Introduce students to the landscape of AI policy, enabling them to navigate the interplay of AI regulation on their future computing work while reinforcing the centrality of ethical and policy considerations to the AI/ML field.
 2. Provide instructors of technical and ethics/'social impacts' computing courses with inspiration for how to integrate discussions about the challenges and risks of AI in their curricula, including through specific case studies, in-class activities, and assignments.
 
-More recently, we adapted the module for a standalone CS ethics course, focusing on policy (in both the public and private sectors) as an embodiment of power and exploring the 'technical frontier' describing what is and what is not (yet) possible with current AI technologies. The [_AI Policy Module_ 2.0](https://github.com/james-weichert/ai-policy-module/blob/main/v1/ABOUT.md) includes a lecture on AI policy and a new assignment on jailbreaking or aligning an AI model.
+More recently, we adapted the module for a standalone CS ethics course, focusing on policy (in both the public and private sectors) as an embodiment of power and exploring the 'technical frontier' describing what is and what is not (yet) possible with current AI technologies. The [_AI Policy Module_ 2.0](https://github.com/james-weichert/ai-policy-module/blob/main/v2/ABOUT.md) includes a lecture on AI policy and a new assignment on jailbreaking or aligning an AI model.
 
 ## Authors and Collaborators
 
