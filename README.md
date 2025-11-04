@@ -1,6 +1,6 @@
 # _AI Policy Module_ Project
 
-_Updated Jun. 2025_
+_Updated Nov. 2025_
 
 ## About
 
@@ -21,11 +21,16 @@ More recently, we adapted the module for a standalone CS ethics course, focusing
 
 ## Publications
 
-* J. Weichert, D. Dunlap, M. Farghally, and H. Eldardiry (2025). ["The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy,"](https://arxiv.org/abs/2506.15639) _IEEE Frontiers in Education 2025_. Recently accepted.
+* J. Weichert, D. Dunlap, M. Farghally, and H. Eldardiry (2025). ["The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy,"](https://arxiv.org/abs/2506.15639) _IEEE Frontiers in Education 2025_.
 * J. Weichert and H. Eldardiry (2025). ["Educating a Responsible AI Workforce: Piloting a Curricular Module on AI Policy in a Graduate Machine Learning Course,"](https://peer.asee.org/educating-a-responsible-ai-workforce-piloting-a-curricular-module-on-ai-policy-in-a-graduate-machine-learning-course) _American Society for Engineering Education (ASEE) Annual Conference 2025_.
 
+## Presentations
+
+* James Weichert recently [presented](https://docs.google.com/presentation/d/1MikFNXLbtnCIhYmVzVLpmFsYqsA4gpB0ca9B9ciyBdE/edit?usp=sharing) findings from the _AI Policy Module 2.0_ pilot at IEEE _Frontiers in Education_ 2025.
+   
 ## Updates
 
 * [Jun '25] Our _AI Policy Module_ 2.0 [paper](https://arxiv.org/abs/2506.15639) was accepted for publication at the 2025 IEEE Frontiers in Education (FIE) Conference in November. [This version](https://github.com/james-weichert/ai-policy-module/blob/main/v2/ABOUT.md) of the module includes an "AI Regulation Assignment" that we are working to make available in the near future!
 * [Feb '25] [Our paper]([https://arxiv.org/abs/2502.07931](https://peer.asee.org/educating-a-responsible-ai-workforce-piloting-a-curricular-module-on-ai-policy-in-a-graduate-machine-learning-course) on the first iteration of the _AI Policy Module_ was accepted at the 2025 American Society for Engineering Education (ASEE) Annual Conference & Exposition.
+
 
