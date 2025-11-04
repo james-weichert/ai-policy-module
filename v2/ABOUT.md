@@ -2,7 +2,7 @@
 _Updated Nov. 2025_
 
 ## About
-The second iteration of the _AI Policy Module_ was piloted in March 2025 for a standalone graduate CS ethics course. This version was spread across three lectures over two weeks of class. [Our paper](https://arxiv.org/abs/2506.15639) on this updated version, which includes a technical assignment on AI regulation, was accepted at the 2025 IEEE Frontiers in Education (FIE) Conference. 
+The second iteration of the _AI Policy Module_ was piloted in March 2025 for a standalone graduate CS ethics course. This version was spread across three lectures over two weeks of class. [Our paper](https://arxiv.org/abs/2506.15639) on this updated version, which includes a technical assignment on AI regulation, was [presented](https://docs.google.com/presentation/d/1MikFNXLbtnCIhYmVzVLpmFsYqsA4gpB0ca9B9ciyBdE/edit?usp=sharing) at the 2025 IEEE Frontiers in Education (FIE) Conference. 
 
 **Attibution:** Please cite _James Weichert and Daniel Dunlap, AI Policy Module 2.0 (2025)_ when using or adapting this module
 
@@ -36,6 +36,7 @@ The second iteration of the _AI Policy Module_ was piloted in March 2025 for a s
     * LLM alignment
     * Model system prompt
     * Content restrictions
+
 
 
 
