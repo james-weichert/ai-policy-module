@@ -1,5 +1,5 @@
 # AI Policy Module v2 (Mar. 2025)
-_Updated Jun. 2025_
+_Updated Nov. 2025_
 
 ## About
 The second iteration of the _AI Policy Module_ was piloted in March 2025 for a standalone graduate CS ethics course. This version was spread across three lectures over two weeks of class. [Our paper](https://arxiv.org/abs/2506.15639) on this updated version, which includes a technical assignment on AI regulation, was accepted at the 2025 IEEE Frontiers in Education (FIE) Conference. 
@@ -23,9 +23,9 @@ The second iteration of the _AI Policy Module_ was piloted in March 2025 for a s
 
 **Regulating AI**
 * Landscape of government AI regulation (analysis from [Weichert et al.](https://link.springer.com/article/10.1007/s44206-025-00176-9))
-    * China: A New Generation AI Development Plan (2017), Personal Information Protection Law (2021), Provisions on Deep Synthesis Services (2022), Measures for Generative AI Services (2023)
-    * European Union: General Data Protection Regulations (2018), EU AI Act (2024)
-    * United States: Blueprint for an AI Bill of Rights (2022), Executive Order 14110 (2023), Executive Order 14148 (2025), Executive Order 14179 (2025)
+    * China: [A New Generation AI Development Plan](https://digichina.stanford.edu/work/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/) (2017), [Personal Information Protection Law](https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021/) (2021), [Provisions on Deep Synthesis Services](https://digichina.stanford.edu/work/translation-internet-information-service-deep-synthesis-management-provisions-draft-for-comment-jan-2022/) (2022), [Measures for Generative AI Services](https://digichina.stanford.edu/work/translation-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-april-2023/) (2023)
+    * European Union: [General Data Protection Regulations](https://gdpr-info.eu/) (2018), [EU AI Act](https://artificialintelligenceact.eu/) (2024)
+    * United States: [Blueprint for an AI Bill of Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) (2022), [Executive Order 14110](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence) (2023), [Executive Order 14148](https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions) (2025), [Executive Order 14179](https://www.federalregister.gov/documents/2025/01/31/2025-02172/removing-barriers-to-american-leadership-in-artificial-intelligence) (2025)
 
 **Case Studies**
 * Government AI regulation
@@ -36,5 +36,6 @@ The second iteration of the _AI Policy Module_ was piloted in March 2025 for a s
     * LLM alignment
     * Model system prompt
     * Content restrictions
+
 
 
